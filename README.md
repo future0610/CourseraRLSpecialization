@@ -1,1 +1,1 @@
-Coursera Reinforcement Learning Spacialization assignments implemented by numpy.
+Coursera Reinforcement Learning Spacialization assignments implemented with numpy.
